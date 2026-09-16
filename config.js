@@ -3,5 +3,5 @@
 // Supabase 后台：Project Settings → API
 window.APP_CONFIG = {
   supabaseUrl: 'https://oyavtrmhcubcsnhuepvy.supabase.co/rest/v1/',
-  supabaseAnonKey: 'sb_publishable_cvU9ZKKURkMUrtH4WmxMug_qH-3IfE9'
+  supabaseAnonKey: 'oyavtrmhcubcsnhuepvy'
 };
