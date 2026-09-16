@@ -1,0 +1,13 @@
+{
+  "name": "情侣小窝",
+  "short_name": "情侣小窝",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff7f7",
+  "theme_color": "#ffedf1",
+  "description": "情侣一起记录体重、安排每日菜单。",
+  "lang": "zh-CN",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
